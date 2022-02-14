@@ -1,0 +1,114 @@
+﻿ADITYA NAYAK
+MOTORSPORT ENGINEERING BASICS RESEARCH PAPER 02/05/2022
+  
+
+Complete research and studies into the basic dynamics of motorsport engineering and it’s subdivisions. 
+
+
+
+
+  
+
+
+
+
+
+Date of initial drafting: Feb 5, 2022
+Date of completion: TBD
+
+
+
+
+Welcome to my research paper! I have started writing this paper as a high school student, so please forgive my use of simplistic language. I will be making this paper easy for beginners to understand, and hope this will prove to be valuable to high school and freshman college students who are interested in starting a career in motorsport engineering and it’s sciences. I will be covering all important points we will need to try and extract maximum performance, efficiency and value for money on any project we pursue.
+
+
+
+
+//Add table of contents here once completed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FUNDAMENTALS:
+Here are the things that the fundamentals of a motorsport vehicle consist of. I have listed them below.
+1. Tires
+2. Camber
+3. Wheelbase
+4. Track
+5. Aerodynamics
+6. VCG 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tires
+Tires are by far the most important thing in a racing vehicle. That’s the first thing you need to consider, because the tires will always be the CONSTANT no matter what performance numbers or engineering designs you have. When it comes to FSAE, tires start at 8in in diameter. The most commonly used tire is the 13in diameter, because it provides the largest size and the most choice of options for tread selection. Keep in mind FSAE cars are not heavy and fast enough to heat those tires to an optimum temperature. (Heat on tyre = more grip)
+Therefore, 10in is more ideal because it’s easier to warm up, and is much lighter. Weight is very important and makes a large difference. Make sure to come up with a smart and effective solution to brake design, steering, and suspension system, because it becomes much harder to pack in additional systems at a smaller tire size.
+Remember to consider the compound of the tires and remember that wider the tires, the better. (Why? More grip thanks to increased surface area.)
+Remember to keep all the geometry in mind too because it will be of much use later.
+
+
+Camber
+What is camber? Camber is the angle at which the wheels are inclined . They can be sloping outwards, or sloping inwards. Why camber? The temperature of the outside tire and the inside tire should be roughly equal. If the outside tire is hotter than the inside tire, you need more camber. If you're overheating the inside of a tire, you need less camber. Likewise, if the middle of the tire is hotter than its edges, it could be overinflated.
+Camber, when professionally used, is used in very small amounts. Usually 0.5 to 1 degree of camber does the work. Remember that it should be easily adjustable, because camber might change depending on the weight of the car.
+Wheelbase
+Wheelbase is definitely an important aspect of the system to be engineered. Because of the effect the wheelbase has on the weight distribution of the vehicle, wheelbase dimensions are very important to the balance and steering. In high performance vehicles a longer wheelbase is more stable at higher speeds. A short wheelbase vehicle is usually able to corner faster but may be less aerodynamic.
+In FSAE, the wheelbase regulation states that it must be at least 60in.
+
+
+Track
+No, I’m not talking about the circuit you’re racing on. Track in this case means the shortest distance between the center of the tire treads on the same axle. On vehicles having dissimilar axle widths, the axle with the widest distance is used for all calculations. Again, make sure to keep all measurements noted. You’ll need these for future reference, and to stay in regulations.
